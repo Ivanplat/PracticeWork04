@@ -23,7 +23,7 @@ main.cpp в нем самом
 
 #PracticeWork04CurrencyConverter  
 Этот проект - часть "Блок «Прощай, жестокий мир»" 2 подпункт, написанный на C# (Конвертер валют)  
-![img]( "Fig.1")
+![img](https://github.com/Ivanplat/PracticeWork04/blob/master/fig01.PNG "Fig.1")
 
 
  
