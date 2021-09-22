@@ -1,6 +1,9 @@
 #pragma once
 #include <vector>
 
+
+//Тут надо бы сделать замечание, что я решил сделать "создание" "животных" через паттерн синглтон фабрики (Singletone-Fabric design pattern methode)
+
 class AnimalsFabric
 {
 public:
