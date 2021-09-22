@@ -12,16 +12,16 @@ main.cpp в нем самом
 В папке PracticeWork04/Source/private/ находятся исполнительные файлы классов  
 В папке PracticeWork04/Source/public/ находятся сами файлы классов  
 
-#Дополнительно  
+# Дополнительно  
 Часть "Блок «Прощай, жестокий мир»" 1 подпункт был очень простой, поэтому я написал его и на C++, и на C#  
 
-#PracticeWork04  
+# PracticeWork04  
 Этот проект - часть "Блок «Прощай, жестокий мир»" 1 подпункт, написанный на C++  
   
-#PracticeWork04CS 
+# PracticeWork04CS 
 Этот проект - часть "Блок «Прощай, жестокий мир»" 1 подпункт, написанный на C#  
 
-#PracticeWork04CurrencyConverter  
+# PracticeWork04CurrencyConverter  
 Этот проект - часть "Блок «Прощай, жестокий мир»" 2 подпункт, написанный на C# (Конвертер валют)  
 ![img](https://github.com/Ivanplat/PracticeWork04/blob/master/fig01.PNG "Fig.1")
 
